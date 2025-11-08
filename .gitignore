@@ -1,0 +1,18 @@
+# Operating System files
+.DS_Store
+
+# Python
+# Virtual Environment Folder (crucial!)
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Dependencies (if using a different approach like npm)
+# node_modules/
+
+# Logs and databases
+# Simple local databases (e.g., if using SQLite)
+*.db
